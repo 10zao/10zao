@@ -1,6 +1,6 @@
 #  sobre mim
 
-- 🔭 I’m currently working  em um mercado
+- 🔭 Atualmente estou trabalhando em um mercado
 - 🌱 Atualmente estou aprendendo agronomia
 - 👯 Eu estudo no colegio Victor Bussmann
 - 🤔 Minha idade:16 anos
